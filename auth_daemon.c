@@ -12,6 +12,7 @@
 #include <poll.h>
 #include <ctype.h>
 //I add this words.
+//The second
 #define errExit(msg)  do { perror(msg); exit(EXIT_FAILURE); } while (0)
 
 #include "database.h"
